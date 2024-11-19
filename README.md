@@ -6,5 +6,5 @@ Technologies : Next JS , Typescript , Aceternity UI , JSON (Data Management)
 
 
 Explore here - https://music-school-courses.vercel.app/
-Explore here : https://music-school-courses-99xyq9t6i-tejust-codes.vercel.app/
+
 
