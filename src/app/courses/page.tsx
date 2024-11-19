@@ -40,13 +40,13 @@ function Page() {
                   alt={course.title}
                 />
               </CardItem>
+              <Link href={"/contact"}>
               <div className="flex justify-center items-center mt-20">
-                <Link href={"/contact"}>
                 <CardItem translateZ={20} as="button" className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold">
                   Contact Us
                 </CardItem>
-                </Link>
               </div>
+              </Link>
             </CardBody>
           </CardContainer>
         ))}
